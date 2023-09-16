@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+seaborn
+tqdm
+torchinfo
+scikit-learn
+tensorboard
+hexbytes
+datasets[vision]
+yacs
